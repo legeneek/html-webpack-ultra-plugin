@@ -1,0 +1,24 @@
+{
+  "name": "html-webpack-ultra-plugin",
+  "version": "1.0.0",
+  "description": "webpack plugin to process html as you wish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legeneek/html-webpack-ultra-plugin.git"
+  },
+  "keywords": [
+    "html",
+    "webpack",
+    "plugin"
+  ],
+  "author": "legeneek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legeneek/html-webpack-ultra-plugin/issues"
+  },
+  "homepage": "https://github.com/legeneek/html-webpack-ultra-plugin#readme"
+}
